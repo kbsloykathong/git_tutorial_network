@@ -1,0 +1,19 @@
+{
+  "name": "git_tutorial_network",
+  "version": "1.0.0",
+  "description": "git demo project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbsloykathong/git_tutorial_network.git"
+  },
+  "author": "Kittinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbsloykathong/git_tutorial_network/issues"
+  },
+  "homepage": "https://github.com/kbsloykathong/git_tutorial_network#readme"
+}
